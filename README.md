@@ -16,12 +16,19 @@ A simple but effective machine learning project to detect whether a message is *
 Project Structure:
 
 📂 Email-Spam-Classifier/
+
 ├── email.csv # Input dataset
+
 ├── train.py # Trains model and saves .pkl files
+
 ├── spam_app.py # Streamlit frontend
+
 ├── model.pkl # Trained ML model
+
 ├── vectorizer.pkl # Tfidf vectorizer
+
 ├── requirements.txt # All required dependencies
+
 └── README.md # This file
 
 Made by Akhi.
